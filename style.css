@@ -46,7 +46,7 @@ header {
 
 .hamburger-box i {
     color: var(--clr-decoration);
-    cursor: pointer;
+    opacity:0;
     font-size: 1.2rem;
     transition: var(--transition);
 }
